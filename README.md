@@ -14,5 +14,8 @@
 
 
 ## 🛠 Technical Stack
-*   
+*   .NET, C#, F#, asp.net core, xUnit, NUnit 
+*   Python 3, Flask
+*   MongoDb, Elasticsearch
+*   Docker
 
