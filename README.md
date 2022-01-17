@@ -9,6 +9,8 @@
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBahtenkov&layout=compact"/></a>
 </p>
 
+<p><img src="https://wakatime.com/share/@Iridium/217584f0-a2ef-43b9-973c-d1b20c198954.svg"></img></p>
+
 ### Key points
 *   creator 
 
