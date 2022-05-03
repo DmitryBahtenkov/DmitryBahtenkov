@@ -1,4 +1,4 @@
-# Hi, I'm Dmitry 👋
+# Привет! Меня зовут Дмитрий Бахтенков 👋
 
 
 <p align='center'>
@@ -9,9 +9,12 @@
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBahtenkov&layout=compact"/></a>
 </p>
 
-### Key points
-*   creator 
-
+### О себе
+*   Работаю в [Skillaz](https://skillaz.ru)
+*   Пишу статьи в своём [микро-блоге в telegram](https://t.me/flexiblecoding)  
+*   Делаю пет-проекты в больших количествах
+*   Участвую в хакатонах
+*   Занимаюсь менторством
 
 ## 🛠 Technical Stack
 *   .NET, C#, F#, asp.net core, xUnit, NUnit 
