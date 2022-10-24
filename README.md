@@ -7,7 +7,7 @@
            src="https://github-readme-stats.vercel.app/api?username=DmitryBahtenkov&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/DmitryBahtenkov/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBahtenkov&layout=compact"/>
-                                                                  <p><img src="https://www.codewars.com/users/DmitryBahtenkov/badges/large"></img></p>
+                                                                  <p><img src="https://www.codewars.com/users/DmitryBahtenkov/badges/small"></img></p>
                                                                   </a>
                                                                  
 </p>
